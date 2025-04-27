@@ -1,3 +1,5 @@
 hydra-core
 lightning
 monai
+torch==2.5
+tensordict
